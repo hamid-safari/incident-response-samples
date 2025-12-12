@@ -13,8 +13,8 @@ A standardized set of templates used by the Incident Response Team (IRT) to form
 
 | Template Name | Description | Status |
 | :--- | :--- | :--- |
-| **[Incident Report Template 1](Incident%20Report%20Template.md)** | Standard template for documenting the full lifecycle of a security incident. | Stable |
-| **[Incident Report Template 2](Incident%20Report%20Template%202.md)** | (Placeholder for a second, specialized template, e.g., "Major Incident Report") | Draft |
+| **[Incident Report Template 1](https://github.com/hamid-safari/incident-response-samples/blob/main/Incident-Report-Template.md)** | Standard template for documenting the full lifecycle of a security incident. | Stable |
+| **[Incident Report Template 2](https://github.com/hamid-safari/incident-response-samples/blob/main/Major%20Incident%20Report%20Template.md)** | (Placeholder for a second, specialized template, e.g., "Major Incident Report") | Draft |
 
 ### 2. Playbooks (Future Content)
 * **Malware Infection Playbook:** Step-by-step procedures for containing and eradicating malware.
